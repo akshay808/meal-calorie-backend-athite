@@ -18,7 +18,7 @@ A backend service built with FastAPI that allows users to input a dish name and 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/akshay808/meal-calorie-backend-athite
 cd meal-calorie-backend
 ```
 
