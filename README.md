@@ -10,7 +10,6 @@ A backend service built with FastAPI that allows users to input a dish name and 
 - **Database:** PostgreSQL
 - **External API:** USDA FoodData Central API
 - **Authentication:** JWT-based
-- **Hosting (Optional):** Render, Railway, Vercel, or local server
 
 ---
 
